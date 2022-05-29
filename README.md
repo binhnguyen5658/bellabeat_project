@@ -7,4 +7,4 @@ You have been asked to focus on one of Bellabeat’s products and analyze smart 
 
 ## Purpose of this project
 Searching for user patterns of usage of their smart devices in order to gain insights that would later better orientate marketing decisions. So, in one phrase it would be: \
-**How do our users use our smart devices?**
+**How do our users use the smart devices?**
